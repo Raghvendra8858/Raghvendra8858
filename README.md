@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Raghvendra8858
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Raghvendra8858!
 
-<!---
-Raghvendra8858/Raghvendra8858 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+I am an Android developer passionate about building intuitive and user-friendly mobile applications. I love working with the latest technologies to create solutions that enhance user experience.
+
+## 🌱 Currently Learning
+I’m currently diving deeper into:
+- Flutter Coroutines for asynchronous programming
+- Jetpack Compose for building modern UI
+- Advanced Android Architecture Components
+
+## 💞️ Looking to Collaborate On
+I’m open to collaborating on projects that involve:
+- Mobile app development
+- Open source initiatives
+- Projects focusing on UI/UX design
+
+## 📫 How to Reach Me
+Feel free to connect with me:
+- **Email**: [your.email@example.com](mailto:raghvendrapratapsinghvns@gmail.com)
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **GitHub**: [Raghvendra8858](https://github.com/Raghvendra8858)
+
+## 🚀 Projects
+Check out some of my projects:
+- [Project 1]([https://github.com/sunny-Joon/Flutter-Sourcing-App.git)) - A short description of Project 1.
+- [Project 2]((https://github.com/Raghvendra8858/longitude-and-latitude.git)) - A short description of Project 2.
+
+---
+
+Feel free to explore my repositories for more Android development projects and contributions!
