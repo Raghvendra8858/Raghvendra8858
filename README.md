@@ -18,7 +18,7 @@ I’m open to collaborating on projects that involve:
 ## 📫 How to Reach Me
 Feel free to connect with me:
 - **Email**: [My Email](mailto:raghvendrapratapsinghvns@gmail.com)
-- **LinkedIn**:[My-linkedin-profile](https://www.linkedin.com/in/raghvendra-pratap-singh-8811021a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- **LinkedIn**:[My-linkedin-profile](https://www.linkedin.com/in/raghvendra-pratap-singh-8811021a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **GitHub**: [My GitHub Account](https://github.com/Raghvendra8858)
 
 ## 🚀 Projects
