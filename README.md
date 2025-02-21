@@ -17,7 +17,7 @@ I’m open to collaborating on projects that involve:
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
-- **Email**: [your.email@example.com](mailto:raghvendrapratapsinghvns@gmail.com)
+- **Email**: [raghvendrapratapsinghvns@gmail.com](mailto:raghvendrapratapsinghvns@gmail.com)
 - **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
 - **GitHub**: [Raghvendra8858](https://github.com/Raghvendra8858)
 
